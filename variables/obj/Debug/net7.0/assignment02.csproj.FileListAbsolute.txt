@@ -1,0 +1,14 @@
+C:\Users\BrannMolvik\assignment02\bin\Debug\net7.0\assignment02.exe
+C:\Users\BrannMolvik\assignment02\bin\Debug\net7.0\assignment02.deps.json
+C:\Users\BrannMolvik\assignment02\bin\Debug\net7.0\assignment02.runtimeconfig.json
+C:\Users\BrannMolvik\assignment02\bin\Debug\net7.0\assignment02.dll
+C:\Users\BrannMolvik\assignment02\bin\Debug\net7.0\assignment02.pdb
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\assignment02.AssemblyInfoInputs.cache
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\assignment02.AssemblyInfo.cs
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\assignment02.csproj.CoreCompileInputs.cache
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\assignment02.dll
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\refint\assignment02.dll
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\assignment02.pdb
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\assignment02.genruntimeconfig.cache
+C:\Users\BrannMolvik\assignment02\obj\Debug\net7.0\ref\assignment02.dll
